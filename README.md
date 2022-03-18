@@ -11,7 +11,7 @@ You want to have **License Verification and In-App-Purchases with microG** and a
 
 ## Installation
 
-- Install [LineageOS for microG](https://lineage.microg.org/)
+- Install [CalyxOS](https://calyxos.org/)
 - Install [Magisk](https://github.com/topjohnwu/Magisk/)
 - Install the module through the Magisk Manager App
 
@@ -46,3 +46,4 @@ Download [this](https://raw.githubusercontent.com/topjohnwu/Magisk/master/script
 
 - **Nanolx** for the PlayStore patch.
 - **nift4** for microG Installer Revived
+- **sn-00-x** for the LineageOS with MicroG version of this script
