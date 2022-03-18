@@ -36,7 +36,7 @@ version of PlayStore. Here it is.
 
 Requires wget.
 
-    wget -O META-INF/com/google/android/update-binary https://raw.githubusercontent.com/topjohnwu/Magisk/master/scripts/module_installer.sh && zip fakestore2playstore.zip -9r *
+    wget -O META-INF/com/google/android/update-binary https://raw.githubusercontent.com/topjohnwu/Magisk/master/scripts/module_installer.sh && zip fakestore2playstore4CalyxOS.zip -9r *
 
 ### Other
 
